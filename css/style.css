@@ -106,7 +106,7 @@ div.search > input{
 .cards{
     display: flex;
     align-items: center;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 
